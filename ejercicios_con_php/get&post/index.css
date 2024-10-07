@@ -1,0 +1,18 @@
+
+.inicio{
+    font-size: 20px;
+    
+}
+
+.formulario {
+    width: 27%;
+    border: 2px solid rgb(53, 117, 236);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+.boton{
+    background-color: aquamarine;
+    
+}
+
